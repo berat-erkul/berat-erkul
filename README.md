@@ -97,8 +97,6 @@ Additionally: I'm a fun person who plays guitar and sings songs. I hope I've bee
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/beraterkul/count.svg)
-
 ### Thanks for your time!
 
 </div>
