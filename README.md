@@ -78,15 +78,6 @@ Enterprise-level task and project management REST API built with **Spring Boot**
 ###  Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=berat-erkul&theme=radical&hide_border=true)
 
-###  GitHub Stats  
-![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=berat-erkul&show_icons=true&theme=radical&hide_border=true)
-
-### � Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berat-erkul&layout=compact&theme=radical&hide_border=true)
-
-###  Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berat-erkul&theme=react-dark&hide_border=true)
-
 </div>
 
 ---
