@@ -1,4 +1,4 @@
-# Hello, I'm Berat Erkul �
+# Hello, I'm Berat Erkul 
 
 ##  About Me
 I'm an aspiring **Java & Spring Boot Backend Developer**. I focus on building **enterprise-level REST APIs**, **microservices**, and **secure cloud-based applications**.  
